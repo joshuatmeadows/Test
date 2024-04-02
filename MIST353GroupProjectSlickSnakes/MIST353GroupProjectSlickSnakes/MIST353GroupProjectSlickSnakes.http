@@ -1,0 +1,6 @@
+@MIST353GroupProjectSlickSnakes_HostAddress = http://localhost:5290
+
+GET {{MIST353GroupProjectSlickSnakes_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
