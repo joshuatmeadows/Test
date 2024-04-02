@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MIST353GroupProjectSlickSnakes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dbdd74037652dd60e144f211d393ad8fbb831570")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("MIST353GroupProjectSlickSnakes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MIST353GroupProjectSlickSnakes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
